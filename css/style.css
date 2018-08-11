@@ -1,0 +1,25 @@
+#train-table th,
+td {
+    /* display: inline-block; */
+    width: 16.575%;
+}
+
+#jumbo {
+    background-color: #856404;
+    color: white;
+    height: 150px;
+    text-align: center;
+    
+
+}
+
+.card-header {
+    background-color: #007bff;
+    color: white;
+}
+  h1, p {
+    margin: auto;
+  
+
+}
+
